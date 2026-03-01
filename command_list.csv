@@ -1,1 +1,131 @@
-git clone https://github.com/kullaniciadi/HW_10.git HW_10
+    1  whoami
+    2  pwd
+    3  cd SQL
+    4  touch goit.txt
+    5  ls goit.txt
+    6  git config--global zehra
+    7  clear
+    8  git config--global user.name zehra
+    9  clear
+   10  git config--gloabal user.name zehra
+   11  clear
+   12  git config -- gloabal user.name zehra
+   13  cd SQL
+   14  S WHOAMİ
+   15  gitconfig -- gloabal user.name zehra
+   16  git config -- gloabal user.name zehra
+   17  git directory
+   18  git directory -- gloabal user.name zehra
+   19  git --version
+   20  git config --gloabal user.name ''Zehra Kayaalp''
+   21  git config --gloabal user.email''github-email@gmail.com''
+   22  git config --gloabal user.email''github-zehrakayaalp14@gmail.com''
+   23  git config --global --list
+   24  clear
+   25  git config --global user.name "Zehra Kayaalp"
+   26  claer
+   27  clear
+   28  git config --global user.name "Zehra Kayaalp"
+   29  git config --global --list
+   30  git config --global user.name "Zehra Kayaalp"
+   31  git config --global user.email "github-emailin@gmail.com"
+   32  clear
+   33  git config --global user.email''github-zehrakayaalp14@gmail.com''
+   34  git config --global --list
+   35  clear
+   36  cd Desktop
+   37  git clone https://github.com/zehrakayaalp14-sys/HW_10.git
+   38  cd HW_10
+   39  cd HW_10
+   40  ls
+   41  cd HW_10
+   42  ıs
+   43  Is
+   44  touch text_ignore.txt
+   45  git status
+   46  notepad .gittignore
+   47  clear
+   48  git status
+   49  git rm --cached text_ignore.txt
+   50  git status
+   51  git add .
+   52  git commit -m "text_ignore dosyası ignore edildi"
+   53  notepad .gitignore
+   54  git rm --cached text_ignore.txt
+   55  git status
+   56  git commit -m "text_ignore git takibinden çıkarıldı"
+   57  git status
+   58  git push origin main
+   59  git branch
+   60  git checkout -b develop
+   61  git branch
+   62  touch develop_test.txt
+   63  Is
+   64  ıs
+   65  ls
+   66  git add .
+   67  git commit -m "develop branch dosyası eklendi"
+   68  git status
+   69  git checkout main 
+   70  git branch
+   71  git merge develop
+   72  git push origin main
+   73  git checkout -b develop
+   74  git checkout develop
+   75  git branch
+   76  touch develop_test.txt
+   77  git add .
+   78  git commit -m "develop branch dosyası eklendi"
+   79  git status
+   80  git checkout main
+   81  git branch
+   82  git merge develop
+   83  ls
+   84  git checkout develop
+   85  git push origin develop
+   86  git branch
+   87  git branch -a
+   88  git log --oneline
+   89  git remote -v
+   90  git push origin main
+   91  git push origin develop
+   92  git branch
+   93  git checkout main
+   94  git push origin main
+   95  git push origin develop
+   96  ls
+   97  git add command_list.csv
+   98  git commit -m "command_list.csv eklendi"
+   99  git push origin main
+  100  ls
+  101  git add command_list.csv
+  102  git commit -m "command_list.csv dosyası eklendi"
+  103  git push origin main
+  104  git status 
+  105  HW_10/command_list.csv
+  106  cd path/to/HW_10
+  107  git add command_list.csv
+  108  git commit -m "command_list.csv dosyası eklendi"
+  109  git push origin main
+  110  C:\Users\Zehra\Desktop\HW_10\command_list.csv
+  111  cd C:\Users\Zehra\Desktop\HW_10
+  112  git add command_list.csv
+  113  git commit -m "command_list.csv eklendi
+  114  clear
+  115  cd C:\Users\Zehra\Desktop\HW_10
+  116  git status
+  117  notepad command_list.csv
+  118  git add command_list.csv
+  119  git commit -m "command_list.csv oluşturuldu"
+  120  git push origin main
+  121  git status
+  122  cd Desktop                  # Örnek olarak masaüstüne git
+  123  git clone https://github.com/kullaniciadi/HW_10.git HW_10
+  124  cd HW_10
+  125   ls
+  126  notepad command_list.csv
+  127  git add command_list.csv
+  128  git commit -m "git clone komutu eklendi"
+  129  git push origin main
+  130  cd Desktop/HW_10
+  131  history > command_list.csv
